@@ -5,7 +5,7 @@ Click the **"Roll Dice"** button and see who wins — Player 1 or Player 2!
 
 ---
 
-### 🔗 [Live Demo]()
+### 🔗 [Live Demo](https://sameekshacodes.github.io/DiceGame/)
 
 ---
 
